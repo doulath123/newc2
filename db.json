@@ -1,0 +1,24 @@
+{
+  "houses": [
+    {
+      "name": "vivek",
+      "ownername": "sharma",
+      "address": "fkdkf",
+      "areaCode": "bhjfds",
+      "rent": "nje4",
+      "preferredTenant": "bachelor",
+      "img": "kjfe",
+      "id": 1
+    },
+    {
+      "name": "mohit",
+      "ownername": "sharma",
+      "address": "dsdkjadkfncme",
+      "areaCode": "jks54",
+      "rent": "54",
+      "preferredTenant": "bachelor",
+      "img": "www.gmail.com",
+      "id": 2
+    }
+  ]
+}
